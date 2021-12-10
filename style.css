@@ -1,0 +1,55 @@
+body {
+  font-size: 100%;
+  background-color: #3cb371;
+  margin: 0;
+  font-family: courier;
+  font-weight: lighter;
+}
+
+header{
+margin: 0 auto;
+background-color: lightgreen;
+font-weight: lighter;
+font-family: monospace;
+color: plum;
+text-align: center;
+padding-top: 2%;
+padding-bottom: 2%;
+text-transform: uppercase;
+font-size: 2em;
+margin-bottom: 80px;
+}
+
+
+.container{
+  background-image: url(/Images/hills.jpeg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  width: 60%;
+  font-size: 20px;
+  }
+
+h2 {
+
+  font-size: 3em;
+  font-weight: lighter;
+  font-family: monospace;
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  padding: 20px;
+  margin-top: 20px;
+  }
+
+  footer{
+  background-color: #add8e6;
+  padding: 50px 0;
+  text-align: center;
+  font-family: monospace;
+  font-weight: lighter;
+  font-size: 2em;
+  margin-top: 80px;
+  }
+
+  
